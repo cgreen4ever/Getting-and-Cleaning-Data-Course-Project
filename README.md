@@ -21,4 +21,4 @@ Lastly the script will create a tidy data set containing the means of all the co
 
 #About the Code Book
 
-The CodeBook  explains the transformations perforemd and the resulting data and variables.
+The CodeBook  explains the transformations performed and the resulting data and variables.
